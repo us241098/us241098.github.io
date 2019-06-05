@@ -13,9 +13,8 @@ text_to_write = '''---
 title: "{0}"
 layout: post
 date: {1}
-image: /assets/images/profile.png
-headerImage: false
 tag:
+- 
 star: true
 category: blog
 author: awalvie 

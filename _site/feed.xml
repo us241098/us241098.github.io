@@ -1,1 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-04T20:38:30+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Day 1: Setting Up the Blog</title><link href="http://localhost:4000/day1/" rel="alternate" type="text/html" title="Day 1: Setting Up the Blog" /><published>2019-06-04T20:37:00+05:30</published><updated>2019-06-04T20:37:00+05:30</updated><id>http://localhost:4000/day1</id><content type="html" xml:base="http://localhost:4000/day1/"></content><author><name>awalvie</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/profile.png" /></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-05T14:41:25+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 1</title><link href="http://localhost:4000/week1/" rel="alternate" type="text/html" title="Week 1" /><published>2019-06-04T20:37:00+05:30</published><updated>2019-06-04T20:37:00+05:30</updated><id>http://localhost:4000/week1</id><content type="html" xml:base="http://localhost:4000/week1/">&lt;p&gt;First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I git gud. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So what are these weekly post ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am currently attempting the 100-days-of-code challenge to help me improve my coding skills, get more aquainted with contributing to open source software and in general spend more time learning and doing productive things than wasting it on YouTube or Dota2 &lt;del&gt;(hit-me-up-anytime-if-you-wanna-play)&lt;/del&gt;. Also this will serve as a way of motivating me everday, as I will never want to be empty handed when I try to write a post every day. I’ll be writing these in a weekly format so as to not have way too many entries on the blog and also because there won’t be that much content to write about every day.&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;personalize&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;day-1&quot;&gt;Day 1&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts and Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Decided to take on the 100-days-of-code challenge, so I thought why not take this chance to set up a blog. I asked a good friend of mine how I’m supposed to go about making it and he pointed me in the direction of jekyll, looked at the various templates availabe for jekyll on &lt;a href=&quot;https://github.com/topics/jekyll-theme&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;Jekyll Site&lt;/a&gt; and because I am very very picky person (thanks dad), I endind up spending way too much time trying to find the perfect minimal theme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Though I spent close to 2 hours browsing, I found this super awesome theme &lt;a href=&quot;https://github.com/sergiokopplin/indigo&quot;&gt;Indigo&lt;/a&gt; that I just intantly fell in love with and was super happy when I found that there was a fantastic &lt;a href=&quot;http://artiannaswamy.com/build-a-github-blog-part-1&quot;&gt;tutorial&lt;/a&gt; for setting up this theme. Now as I had zero experience and as the tutorial was a little outdated &lt;del&gt;(it had nothing to with me being retarded and not reading the tutorial correctly)&lt;/del&gt; it took me the whole day to figure out the tutorial and change some of the settings as per my needs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Also made a simple script in python to generate a template blog post so that I don’t have to manually write it everyday.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#!/bin/python&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;datetime&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;today&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;time&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;time&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;time&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;file_title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;File-Title: &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Input Title: &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;filename&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;-&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;file_title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'.md'&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;description&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Input Description: &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;text_to_write&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'''---
+title: &quot;{0}&quot;
+layout: post
+date: {1}
+tag:
+- 
+star: true
+category: blog
+author: awalvie 
+description: &quot;{2}&quot;
+---
+'''&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;text_to_write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'w'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;text_to_write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Link to work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;awalvie.github.io&quot;&gt;My Blog !!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New thing(s) learned:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to use and make GitHub Pages&lt;/li&gt;
+  &lt;li&gt;How to make Blog Posts&lt;/li&gt;
+  &lt;li&gt;Basics of Jekyll&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Have been very enthusiastic since yesterday, as the stuff I’m doing is actually working.&lt;/li&gt;
+  &lt;li&gt;Have a lot more respect for Web Developers than I previously did.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://cboardinggroup.com/wp-content/uploads/2018/12/Blogging-Memes-Starts-Blog-6-Views.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;You thought I forgot about the memes did you !! Oh how wrong you were.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;day-2&quot;&gt;Day 2&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts and Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;So I’ll be honest this officially happened before setting up the site but I decided it would be better to write it this way. I spent a little bit of time trying to make some changes to my site, 
+&lt;strong&gt;Broke it&lt;/strong&gt;, and then restored it back to the original settings (&lt;em&gt;hallelujah git&lt;/em&gt;).&lt;/p&gt;
+
+    &lt;p&gt;You see the problem was that the site has two options &lt;code class=&quot;highlighter-rouge&quot;&gt;Large&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Small&lt;/code&gt; the default value is &lt;code class=&quot;highlighter-rouge&quot;&gt;Small&lt;/code&gt; and it’s placed in the first file that you edit for conveniece, now as I am dumb, I never noticed this option and spent two hours on it when all I had to do was change &lt;code class=&quot;highlighter-rouge&quot;&gt;small&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;large&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ll often find that I spend a lot of time doing research, trying to find the perfect method for everything and never end up actually learning it, this is especially true here. I was looking for active &lt;code class=&quot;highlighter-rouge&quot;&gt;C&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Python&lt;/code&gt; projects to contribute to on GitHub and made this list. Picking one thing out of so many was a nightmare for me, and again after talking to my friend and heeding his advice &lt;em&gt;“Pick anything”&lt;/em&gt; I rolled the dice (&lt;em&gt;not really&lt;/em&gt;) and chose NeoVim as the organization to contribute to because that is the one open source software I use everyday.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+C Orgs:
+
+wrk
+numpy
+nuklear
+jq
+rsyslog
+radare2
+redis
+Strace
+syslog-ng
+NeoVim 
+oss-fuzz
+performancecopilot
+riot 
+emscripten
+
+Python Orgs:
+
+Wikimedia (doubtful)
+Read The Docs
+Matrix 
+Submitty
+Owasp (Lots of Projects)
+OpenWisp
+OpenChemistry
+Mozilla
+NumFocus 
+Sympy 
+Internet Archive
+MetaBrainz
+AeroSpace Research
+Google API                  #Search for this on github
+AppleSeedHQ
+Coala
+certbot
+GNU Radio
+Youtube-dl
+ranger
+salt
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;New thing(s) learned:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Been trying to learn CMAKE, found a really helpful explanation on this &lt;a href=&quot;https://stackoverflow.com/a/26007567/9046578&quot;&gt;answer&lt;/a&gt; - &lt;a href=&quot;https://medium.com/@onur.dundar1/cmake-tutorial-585dd180109b&quot;&gt;This&lt;/a&gt; also has been super helpful - The &lt;a href=&quot;https://cmake.org/cmake-tutorial/&quot;&gt;Wiki&lt;/a&gt; is fantastic as well.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html">First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I git gud. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.</summary></entry></feed>
