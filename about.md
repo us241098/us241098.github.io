@@ -25,6 +25,7 @@ I also like reading books and will be writing about them, these won't be reviews
 	<li>C</li>
 	<li>Git</li>
 	<li>Python</li>
+	<li>Markdown<li>
 </ul>
 
 <h2>Projects</h2>

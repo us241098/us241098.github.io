@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-05T14:47:30+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 1</title><link href="http://localhost:4000/week1/" rel="alternate" type="text/html" title="Week 1" /><published>2019-06-04T20:37:00+05:30</published><updated>2019-06-04T20:37:00+05:30</updated><id>http://localhost:4000/week1</id><content type="html" xml:base="http://localhost:4000/week1/">&lt;p&gt;First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I git gud. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-07T17:38:42+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 1</title><link href="http://localhost:4000/week1/" rel="alternate" type="text/html" title="Week 1" /><published>2019-06-05T20:37:00+05:30</published><updated>2019-06-05T20:37:00+05:30</updated><id>http://localhost:4000/week1</id><content type="html" xml:base="http://localhost:4000/week1/">&lt;p&gt;First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I &lt;em&gt;git gud&lt;/em&gt;. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;So what are these weekly post ?&lt;/em&gt;&lt;/p&gt;
 
@@ -137,6 +137,15 @@ salt
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Well all I did today was read up on the &lt;a href=&quot;https://github.com/neovim/neovim/wiki&quot;&gt;wiki&lt;/a&gt; and try to understand how to contribute to NeoVim. After reading about it for a little while and understanding very little I wondered if this is the right way to go because I felt that it was way above my head, but you know motivation and all and I kept going.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Also tried to learn CMake as that is how NeoVim is built, I found a make and CMake a decided it would be best that I understand how it worked so I have a better understanding of Projects.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;New thing(s) learned:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -145,4 +154,16 @@ salt
 
 &lt;hr /&gt;
 
-&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://img-9gag-fun.9cache.com/photo/a4QVqVQ_700bwp.webp&quot; /&gt;&lt;/div&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html">First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I git gud. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.</summary></entry></feed>
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://img-9gag-fun.9cache.com/photo/a4QVqVQ_700bwp.webp&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;day-3&quot;&gt;Day 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Was travelling from my village back to my home. A 9-10 hour car journey. Was very tired and did not do a lot, although I did look up some tracks on Pluralsight, mostly because a friend recommended that the courses were decent and that you can get &lt;em&gt;1 Month Free&lt;/em&gt; using &lt;a href=&quot;https://visualstudio.microsoft.com/dev-essentials/&quot;&gt;Visual Studio Dev Essentials&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://img-9gag-fun.9cache.com/photo/aXYm5Ob_700bwp.webp&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html">First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I git gud. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.</summary></entry></feed>
