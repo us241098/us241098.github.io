@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-07T17:38:42+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 1</title><link href="http://localhost:4000/week1/" rel="alternate" type="text/html" title="Week 1" /><published>2019-06-05T20:37:00+05:30</published><updated>2019-06-05T20:37:00+05:30</updated><id>http://localhost:4000/week1</id><content type="html" xml:base="http://localhost:4000/week1/">&lt;p&gt;First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I &lt;em&gt;git gud&lt;/em&gt;. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-12T22:05:55+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 2</title><link href="http://localhost:4000/week2/" rel="alternate" type="text/html" title="Week 2" /><published>2019-06-11T20:51:00+05:30</published><updated>2019-06-11T20:51:00+05:30</updated><id>http://localhost:4000/week2</id><content type="html" xml:base="http://localhost:4000/week2/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;personalize&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;day-1-monday&quot;&gt;Day 1, Monday&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts and Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Was travelling, &lt;strong&gt;First Time Flying&lt;/strong&gt;, was very excited. I was the last guy in my family that had never been in a flight. Though the flight was pretty short I did not end up really doing anything as most of the day was used up in making preperations for the trip. Also it does not help that I had to spend 2.5 hours in a car to get to my location. &lt;em&gt;Traffic ami’rit bois&lt;/em&gt;. I’m in Delhi to pursue an internship for a month so most of the posts are going to be about that.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;http://themetapicture.com/media/funny-airplane-flight-clipart.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;day-2-tuesday&quot;&gt;Day 2, Tuesday&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts and Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First day at the Intern, mostly excited and scared. Feel that I’m highly unqualified to be here.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Waited a bit and was introduced to my mentor. You know that you are at the right place and talking to the right person when the first thing that the guy asks you to make is &lt;strong&gt;LFS&lt;/strong&gt;, yep, take it in, the first thing that the guy asks me to do is build Linux From Scratch. At this point of time two things cross my mind.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Holy hell these guys are good if the first things I’m asked to do is make LFS.&lt;/li&gt;
+  &lt;li&gt;I’m screwed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Because of LFS, I have to put DVWA on hold as it’s going to take up most of my time.&lt;/p&gt;
+
+&lt;p&gt;Oh I never mentioned DVWA previously did I, let me explain. Sticking to one thing for a long time has never been my forte. My interests lie in C and security but I’ve not really been able to fully commit to either, I have done a played a couple of CTF’s and partially made some projects in C(nothing original mostly using &lt;a href=&quot;https://github.com/rby90/Project-Based-Tutorials-in-C&quot;&gt;tutorials&lt;/a&gt; on the internet) and was trying my hand everywhere but not really getting good anywhere. That’s when I asked a friend of mine to help and mentor me. We together decided that Web Sec would be a good jumping off point for me and he then suggested that I solve &lt;a href=&quot;http://www.dvwa.co.uk/&quot;&gt;DVWA&lt;/a&gt; and &lt;a href=&quot;https://github.com/webpwnized/mutillidae&quot;&gt;multillidae&lt;/a&gt; so that was what I had been doing the end of the last week, solved a couple of vulnerabilities in DVWA but got of work on LFS right now.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I met my mentor quite late as there was some misunderstanding in the HR and I was assigned to a network team (where I had no clue what anybody was talking about) so I was mostly doing DVWA and started a bit late with LFS, all I did was see how to set up LFS on Virtual Box and the requirements for LFS (basically that it needs a seprate Disk and how to make seprate disks on VirtualBox)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;New thing(s) learned&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wireshark basics&lt;/li&gt;
+  &lt;li&gt;Using proxy with Burp Suite&lt;/li&gt;
+  &lt;li&gt;Using hydra for brute force attacks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://img.devrant.com/devrant/rant/r_738137_7RHyU.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;day-3-wednesday&quot;&gt;Day 3, Wednesday&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts and Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Too….Much….Information….&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To anybody who attempts LFS, I humbly salute you and know your pain. The &lt;a href=&quot;http://www.linuxfromscratch.org/lfs/&quot;&gt;LFS book&lt;/a&gt; is fantastic and written in great detail. The only problem is there is a lot of jargon and complicated stuff involved (&lt;em&gt;redditors: it’s a great learning experience for beginners&lt;/em&gt;). There is a lot you need to know and be aware of. I worked with it for 7 hours today and only ended up reaching Chapter 5.10. Now I know that there are some people that are gonna say &lt;em&gt;What a noob, it took you that long to get there, I can do it in 5 minutes&lt;/em&gt; first, realax and second it’s my first time attempting this so have some mercy on me.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you are planning to build LFS this is how I’m doing it.&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Install VirtualBox&lt;/li&gt;
+      &lt;li&gt;Install ubuntu on it&lt;/li&gt;
+      &lt;li&gt;After installing power down the VM&lt;/li&gt;
+      &lt;li&gt;Go to Settings -&amp;gt; Storage of the VM&lt;/li&gt;
+      &lt;li&gt;Make a new Sata HDD by clicking on the &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt; sign&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the basic environment setup, then you should be able to follow through with the book, this is more convenient as you don’t need to have an external disk to make the LFS, you have the ability to save the state of your system, because as you will come to know it’s not adviced to power down your machine and you have the ability to make snapshots that you can revert to if you mess up. You can also use Vmplayer instead of VirtualBox.&lt;/p&gt;
+
+&lt;p&gt;Do try to make notes as you go through the tutorial as there is a lot of stuff to understand and go slow, don’t rush. Try to look up and understand every word that’s foreign to you, and keep taking snapshots at regular intervals (highly recommended).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QjHz8.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html"></summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/week1/" rel="alternate" type="text/html" title="Week 1" /><published>2019-06-05T20:37:00+05:30</published><updated>2019-06-05T20:37:00+05:30</updated><id>http://localhost:4000/week1</id><content type="html" xml:base="http://localhost:4000/week1/">&lt;p&gt;First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I &lt;em&gt;git gud&lt;/em&gt;. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;So what are these weekly post ?&lt;/em&gt;&lt;/p&gt;
 
@@ -76,6 +160,8 @@ description: &quot;{2}&quot;
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://cboardinggroup.com/wp-content/uploads/2018/12/Blogging-Memes-Starts-Blog-6-Views.jpg&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;em&gt;You thought I forgot about the memes did you !! Oh how wrong you were.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;day-2&quot;&gt;Day 2&lt;/h3&gt;
 
