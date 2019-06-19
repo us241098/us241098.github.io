@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-12T22:05:55+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 2</title><link href="http://localhost:4000/week2/" rel="alternate" type="text/html" title="Week 2" /><published>2019-06-11T20:51:00+05:30</published><updated>2019-06-11T20:51:00+05:30</updated><id>http://localhost:4000/week2</id><content type="html" xml:base="http://localhost:4000/week2/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-19T18:18:56+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 3</title><link href="http://localhost:4000/week3/" rel="alternate" type="text/html" title="Week 3" /><published>2019-06-19T18:00:00+05:30</published><updated>2019-06-19T18:00:00+05:30</updated><id>http://localhost:4000/week3</id><content type="html" xml:base="http://localhost:4000/week3/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;personalize&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;day-7-sunday---day-1-monday&quot;&gt;Day 7 Sunday - Day 1 Monday&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;LFS IS DONE !!! Woo hoo… It took me working &lt;em&gt;(mostly waiting)&lt;/em&gt; all of Sunday and then troubleshooting GRUB on Monday but it works. Honestly my personal opinion would be just to read the book because most of the work is just copy-pasting and making minor changes to some files. Chapter 6 is just following step after step and 7 and 8 are also pretty straightforward.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;New thing(s) learned&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How linux works&lt;/li&gt;
+  &lt;li&gt;How linux works&lt;/li&gt;
+  &lt;li&gt;How linux works&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(it’s a pretty big deal so writing it down 3 times)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://external-preview.redd.it/QwBEUJsg-0SmChi8V1DyCtk5ECUFViDcZya8m_xUCcA.jpg?auto=webp&amp;amp;s=678f216eb2fe1527c8a4536e2011715bba36de88&quot; /&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;day-2-tuesday---day-3-wednesday&quot;&gt;Day 2 Tuesday - Day 3 Wednesday&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Been sick today and yesterday, probably because I am not eating healthy and because I wanted to finish LFS, I drank way too much coffee and did not really sleep most of Sunday and Monday. Planning on watching Chernobyl, been on the watch-list for a while now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://sayingimages.com/wp-content/uploads/im-feeling-sick-i-should-google-my-symptoms-and-im-dying-meme.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html"></summary></entry><entry><title type="html">Week 2</title><link href="http://localhost:4000/week2/" rel="alternate" type="text/html" title="Week 2" /><published>2019-06-11T20:51:00+05:30</published><updated>2019-06-11T20:51:00+05:30</updated><id>http://localhost:4000/week2</id><content type="html" xml:base="http://localhost:4000/week2/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;personalize&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;day-1-monday&quot;&gt;Day 1, Monday&lt;/h3&gt;
@@ -81,6 +116,20 @@
 &lt;hr /&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QjHz8.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;day-4-thursday---day-6-saturday&quot;&gt;Day 4 Thursday - Day 6 Saturday&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts and Progress&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not very happy… I did all the work until Chapter 6 which was mostly reading and compiling…. a lot of compiling and a lot of waiting. It’s safe to say that I am now feeling proficient making (&lt;em&gt;see what I did there&lt;/em&gt;) anything from source. I go to sleep after shutting down my device and was feeling very happy that I’d done my task so quickly. Wake up on Saturday, get my Coffee, boot up the Virtual Machine and &lt;em&gt;lo and behold&lt;/em&gt; it just wont start. Spent most of Saturday looking at forums to try and fix this problem but found no solutions. So all in all I feel sad, annoyed and angry.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.redd.it/x9vlbv8frut01.jpg&quot; /&gt;&lt;/div&gt;
 
 &lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html"></summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/week1/" rel="alternate" type="text/html" title="Week 1" /><published>2019-06-05T20:37:00+05:30</published><updated>2019-06-05T20:37:00+05:30</updated><id>http://localhost:4000/week1</id><content type="html" xml:base="http://localhost:4000/week1/">&lt;p&gt;First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I &lt;em&gt;git gud&lt;/em&gt;. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.&lt;/p&gt;
 
@@ -252,4 +301,14 @@ salt
 &lt;hr /&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://img-9gag-fun.9cache.com/photo/aXYm5Ob_700bwp.webp&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;day-4-5&quot;&gt;Day 4-5&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tbh I did not do much all these days, I lazed around and Played Dota and spent some time with family. I want to be truthful on these updates so I will give only a real account of what I did and did not do.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;http://www.quickmeme.com/img/c8/c85ec22da87e9211bf4d0eea6a3a242bc7a7fca452845a8c2833e57d00357101.jpg&quot; /&gt;&lt;/div&gt;
 &lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html">First, let me apologize for the crude english that you are about to read now. A purpose of this blog is also that I improve my writing skills so bear with me for a while as I git gud. Any suggestions that you might have for me you can always share with me (that is if anybody reads this in the first place). Also there are gonna be a lot of memes and some of them are unfunny apparantly (maybe because of my awful sense of humor) so beware cringe memes.</summary></entry></feed>
