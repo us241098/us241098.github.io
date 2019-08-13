@@ -19,16 +19,19 @@ rm -rf ./super_awesome_project
 The social skills I lack (as pointed out by my parents), I like to think I make up for by having a high amount of curiosity, love for computers and addiction to coffee. I am always interested in talking to people to share ideas and solve problems, so hit me up on twitter anytime.
 
 I also like reading books and will be writing about them, these won't be reviews but just my thoughts put on paper.
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>C</li>
-	<li>Git</li>
-	<li>Python</li>
-	<li>Markdown<li>
-</ul>
 
-<h2>Projects</h2>
 
-<ul>
-</ul>
+## Skill List 
+
+* C++
+* Python
+* CMake
+* OpenGL
+
+
+
+## Projects 
+
+* Voxel Based Game Engine (Being Worked On Right Now)
+
