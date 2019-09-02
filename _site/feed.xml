@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-14T05:08:47+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">GUESS WHO’S BACK</title><link href="http://localhost:4000/week1again/" rel="alternate" type="text/html" title="GUESS WHO'S BACK" /><published>2019-08-13T21:12:00+05:30</published><updated>2019-08-13T21:12:00+05:30</updated><id>http://localhost:4000/week1again</id><content type="html" xml:base="http://localhost:4000/week1again/">&lt;h3 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-02T06:04:34+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">I’m back</title><link href="http://localhost:4000/week1_again/" rel="alternate" type="text/html" title="I'm back" /><published>2019-08-26T06:46:00+05:30</published><updated>2019-08-26T06:46:00+05:30</updated><id>http://localhost:4000/week1_again</id><content type="html" xml:base="http://localhost:4000/week1_again/">&lt;h2 id=&quot;monday&quot;&gt;Monday&lt;/h2&gt;
 
 &lt;p&gt;I’m back. That’s it.&lt;/p&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;p&gt;Sarcasm aside, I joined this &lt;a href=&quot;discord.gg/programming&quot;&gt;server&lt;/a&gt; that I’d highly recommend you join as well, it’s a Discord server that has some of the smartest, funniest and nicest people I’ve had the pleasure of talking to, and one of them suggested that we make a game engine together.&lt;/p&gt;
 
-&lt;p&gt;A game engine is something that you use to make the actual game with, our game engine is not based on Pixels but &lt;a href=&quot;https://en.wikipedia.org/wiki/Voxel&quot;&gt;Voxels&lt;/a&gt;, a Voxel as I describe to other people right now is basically a 3D Pixel with metadata, and because of that you can do a lot of cool stuff with physics because you can define the action of every particular voxel to some event and it looks pretty &lt;a href=&quot;https://www.youtube.com/watch?v=hSSDp5f6L7k&quot;&gt;cool&lt;/a&gt;. We planned on writing it in &lt;strong&gt;Vulkan&lt;/strong&gt; but hey, we both don’t know &lt;em&gt;shid&lt;/em&gt; about Graphics and it takes close to a 1000, yes you read it right &lt;strong&gt;1000&lt;/strong&gt; lines of code to draw a &lt;strong&gt;TRIANGLE&lt;/strong&gt; on the screen with. So we decided on OpenGl, we were going to make it Cross-Platform, use &lt;a href=&quot;https://vagrantup.com&quot;&gt;Vagrant&lt;/a&gt;, to keep the build Environments same and use CMake, but we ran into problems, (could’nt expose the graphics card in the Vagrant Box and CMake is complicated), so right now the project is just set up for Visual Studio, but I plan on using PreMake to automate that process. The Goal right now is just to get through the &lt;a href=&quot;http://www.opengl-tutorial.org&quot;&gt;OpenGl-Tutorial&lt;/a&gt; to get a basic understanding of how to render stuff on the screen and then get going with making the engine.&lt;/p&gt;
+&lt;p&gt;A game engine is something that you use to make the actual game with, our game engine is not based on Pixels but &lt;a href=&quot;https://en.wikipedia.org/wiki/Voxel&quot;&gt;Voxels&lt;/a&gt;, a Voxel as I describe to other people right now is basically a 3D Pixel with metadata, and because of that you can do a lot of cool stuff with physics because you can define the action of every particular voxel to some event and it looks pretty &lt;a href=&quot;https://www.youtube.com/watch?v=hSSDp5f6L7k&quot;&gt;cool&lt;/a&gt;. We planned on writing it in &lt;strong&gt;Vulkan&lt;/strong&gt; but hey, we both don’t know &lt;em&gt;shid&lt;/em&gt; about Graphics and it takes close to a 1000, yes you read it right &lt;strong&gt;1000&lt;/strong&gt; lines of code to draw a &lt;strong&gt;TRIANGLE&lt;/strong&gt; on the screen with. So we switched to OpenGl, we were going to make it Cross-Platform, use &lt;a href=&quot;https://vagrantup.com&quot;&gt;Vagrant&lt;/a&gt;, to keep the build Environments same and use CMake for the actual buildiing, but we ran into problems, (could’nt expose the graphics card in the Vagrant Box and CMake is complicated :) ), so right now the project is just set up for Visual Studio, but I plan on using PreMake to automate that process. The Goal right now is just to get through the &lt;a href=&quot;http://www.opengl-tutorial.org&quot;&gt;OpenGl-Tutorial&lt;/a&gt; to get a basic understanding of how to render stuff on the screen and then get going with making the engine.&lt;/p&gt;
 
 &lt;p&gt;The reason I’m doing this right now is because if not for this I would still be on GitHub trying to find an organization to contribute to, make a list out of them, take days to select one, don’t like the Org and repeat the process over and over and not be productive. This will teach me a lot of stuff, a lot of disciplines of computer science and i’ll finally understand how people go from &lt;strong&gt;c=a+b&lt;/strong&gt; in C++ to &lt;strong&gt;Doom&lt;/strong&gt;.&lt;/p&gt;
 
@@ -35,7 +35,46 @@
 &lt;div class=&quot;tenor-gif-embed&quot; data-postid=&quot;8291749&quot; data-share-method=&quot;host&quot; data-width=&quot;100%&quot; data-aspect-ratio=&quot;1.7857142857142858&quot;&gt;&lt;a href=&quot;https://tenor.com/view/im-back-baby-emperors-new-gif-8291749&quot;&gt;Im Back Baby Kuzco GIF&lt;/a&gt; from &lt;a href=&quot;https://tenor.com/search/imbackbaby-gifs&quot;&gt;Imbackbaby GIFs&lt;/a&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot; async=&quot;&quot; src=&quot;https://tenor.com/embed.js&quot;&gt;&lt;/script&gt;
 
-&lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html">Tuesday</summary></entry><entry><title type="html">Week 3</title><link href="http://localhost:4000/week3/" rel="alternate" type="text/html" title="Week 3" /><published>2019-06-19T18:00:00+05:30</published><updated>2019-06-19T18:00:00+05:30</updated><id>http://localhost:4000/week3</id><content type="html" xml:base="http://localhost:4000/week3/">&lt;h3 id=&quot;day-7-sunday---day-1-monday&quot;&gt;Day 7 Sunday - Day 1 Monday&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;I’m sorry, did not make a lot of progress today, I was really enjoying reading &lt;a href=&quot;https://www.goodreads.com/book/show/78129.Killing_Floor&quot;&gt;Killing Floor&lt;/a&gt; by Lee Child,  really fun book, spent all the time reading and finished it the next day (I’m writing this after completing it), and hence was’nt able to make a whole lot of progress.&lt;/p&gt;
+
+&lt;p&gt;Did some questions, wrote the entry for yesterday,&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Competitive Problems Done:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spoj.com/problems/HPYNOS/&quot;&gt;Happy Numbers1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spoj.com/problems/BEENUMS/&quot;&gt;Beehive Numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spoj.com/problems/OLOLO/&quot;&gt;Onotole needs your help&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spoj.com/problems/NGM/&quot;&gt;A Game with Numbers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://img.buzzfeed.com/buzzfeed-static/static/2017-03/24/11/asset/buzzfeed-prod-fastlane-02/sub-buzz-27356-1490368104-1.jpg?downsize=800:*&amp;amp;output-format=auto&amp;amp;output-quality=auto&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;thursday&quot;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;A pretty chill day today nothing out of the ordinary, did a couple of problems in college and read up some OpenGl, sleeping early and waking up early is a great way to set yourself up for being productive and in general feeling good about yourself. Would highly recommend :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/&quot;&gt;Matrices in OpenGL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/&quot;&gt;Time Complexity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Competitive Problems Done:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/contest/455/problem/A&quot;&gt;Boredom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/contest/474/problem/B&quot;&gt;Worms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/&quot;&gt;Graphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I did also just read through the DFS and BFS algorithms, just need to practically implement them now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/UyncOT5.jpg&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html">Monday</summary></entry><entry><title type="html">Week 3</title><link href="http://localhost:4000/week3/" rel="alternate" type="text/html" title="Week 3" /><published>2019-06-19T18:00:00+05:30</published><updated>2019-06-19T18:00:00+05:30</updated><id>http://localhost:4000/week3</id><content type="html" xml:base="http://localhost:4000/week3/">&lt;h3 id=&quot;day-7-sunday---day-1-monday&quot;&gt;Day 7 Sunday - Day 1 Monday&lt;/h3&gt;
 
 &lt;p&gt;LFS IS DONE !!! Woo hoo… It took me working &lt;em&gt;(mostly waiting)&lt;/em&gt; all of Sunday and then troubleshooting GRUB on Monday but it works. Honestly my personal opinion would be just to read the book because most of the work is just copy-pasting and making minor changes to some files. Chapter 6 is just following step after step and 7 and 8 are also pretty straightforward.&lt;/p&gt;
 
