@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-02T06:04:34+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">I’m back</title><link href="http://localhost:4000/week1_again/" rel="alternate" type="text/html" title="I'm back" /><published>2019-08-26T06:46:00+05:30</published><updated>2019-08-26T06:46:00+05:30</updated><id>http://localhost:4000/week1_again</id><content type="html" xml:base="http://localhost:4000/week1_again/">&lt;h2 id=&quot;monday&quot;&gt;Monday&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-08T19:54:36+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">awalvie</title><subtitle>a blog about my coding journey</subtitle><entry><title type="html">Week 2</title><link href="http://localhost:4000/week2/" rel="alternate" type="text/html" title="Week 2" /><published>2019-09-02T06:12:00+05:30</published><updated>2019-09-02T06:12:00+05:30</updated><id>http://localhost:4000/week2</id><content type="html" xml:base="http://localhost:4000/week2/">&lt;h3 id=&quot;monday&quot;&gt;Monday&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Wasted the first half of the morning, watching YouTube and doing dumb stuff, I have a hard time with being productive on weekends, gotta work on it.&lt;/p&gt;
+
+&lt;p&gt;I mostly looked into how I’d set-up the engine, in Visual Studio, and concluded that I needed to make my engine a static library which would then be included in the actual test projects, was’nt sure how i’d set it up, tired doing it today but it did’nt work, will give it a shot again tomorrow, I now have an idea about how to go about it.&lt;/p&gt;
+
+&lt;p&gt;Also I did some applications related to Binary Trees because I’m starting to get a lot of quesions where they are required as data structures on CodeForces&lt;/p&gt;
+
+&lt;!-- **Thoughts:**:  --&gt;
+
+&lt;p&gt;&lt;strong&gt;Competitive Problems Done:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?h_r=profile&quot;&gt;PreOrder Traversal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com/challenges/binary-search-tree-insertion?h_r=profile&quot;&gt;Binary Search Tree : Insertion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com/challenges/tree-level-order-traversal?h_r=profile&quot;&gt;Tree: Level Order Traversal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com/challenges/tree-top-view?h_r=profile&quot;&gt;Tree : Top View&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree?h_r=profile&quot;&gt;Tree: Height of a Binary Tree&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.redd.it/dz5i1fspxuf31.png&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Looked at a couple of videos regarding how Game Engines work and the math beind matrix projections &lt;a href=&quot;https://www.youtube.com/watch?v=ih20l3pJoeU&quot;&gt;1&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=XgMWc6LumG4&amp;amp;t=3s&quot;&gt;2&lt;/a&gt;. Found them pretty good and informative.&lt;/p&gt;
+
+&lt;p&gt;Tried to get my mind around &lt;a href=&quot;https://codeforces.com/problemset/problem/580/C&quot;&gt;this&lt;/a&gt; problem, tried to solve it for like and hour, then looked at the editorial, did’nt understand how to do DFS on a Generic Tree, did’nt understand that either, tried to understand the actual solution in the editorial, failed that too, and then gave up for the day.&lt;/p&gt;
+
+&lt;p&gt;Also I have to give a session on the basics of Python to some juniors and i’ll be writing it in iPython interactively so I wanted to have a document that would be like an outline of things that’d help me remember all the things that I needed to talk about, so worked on that for a solid two hours in college&lt;/p&gt;
+
+&lt;p&gt;This is what it looks like right now:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/awalvie/fa7f593860b15510a140146be3bb3c81.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Need to keep working on it, and add things.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/TC9er82.jpg&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;thursday&quot;&gt;Thursday&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Really productive day today, solved 2 and working on another one, mostly an implementation problem but a long one, so gonna have to debug this one, also I tried my hand at making a script for scraping my submission every day, so I don’t have to manually find all the problems I solved that day and can just use that to automate, but I’m way too tired and spent today, gonna be going to bed early, i’ll see if I can get that script running tomorrow.&lt;/p&gt;
+
+&lt;!-- **Thoughts:**:  --&gt;
+
+&lt;p&gt;&lt;strong&gt;Competitive Problems Done:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/479/C&quot;&gt;Exams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/279/B&quot;&gt;Books&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.redd.it/2n3n2a9p3lj31.jpg&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;saturday&quot;&gt;Saturday&lt;/h3&gt;
+
+&lt;p&gt;Been consistently doing competitive programming problems for the past week, 2 a day, it’s fun to do when you have a group of people doing it alongside you, me and 3 others work on them together during college hours, so the work mostly gets done in the college itself.&lt;/p&gt;
+
+&lt;p&gt;Reading has been on the back pedal for a while now, I have difficulties trying to decide on which book to read, I love my iPad to death and because I like downloading stuff I downloaded a bunch of books onto it, but I have a hard time making choices so after completeing the first Reacher book I just never got back into it, also because I wake up early I thought it’d be a good idea to get some exercise done, so started doing that from today and holy shid I’m out of shape, which sucks, but exercise is fun so I’m going to try and be consistent.&lt;/p&gt;
+
+&lt;p&gt;Been having serious trouble being productive on weekends, I always start the day full of motivation but then I just fall into the YouTube trap and spend hours on end doing useless videos and not doing anything productive.&lt;/p&gt;
+
+&lt;!-- **Today's Progress**:  --&gt;
+
+&lt;!-- **Thoughts:**:  --&gt;
+
+&lt;p&gt;&lt;strong&gt;Competitive Problems Done:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/545/D&quot;&gt;Queue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/519/C&quot;&gt;A and B and Team Training&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/550/C&quot;&gt;Divisibility by Eight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/476/B&quot;&gt;Dreamoon and WiFi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.redd.it/el1ro06n98l31.jpg&quot; /&gt;&lt;/div&gt;
+&lt;hr /&gt;</content><author><name>awalvie</name></author><category term="blog" /><category term="100-days-of-code" /><summary type="html">Monday</summary></entry><entry><title type="html">I’m back</title><link href="http://localhost:4000/week1_again/" rel="alternate" type="text/html" title="I'm back" /><published>2019-08-26T06:46:00+05:30</published><updated>2019-08-26T06:46:00+05:30</updated><id>http://localhost:4000/week1_again</id><content type="html" xml:base="http://localhost:4000/week1_again/">&lt;h2 id=&quot;monday&quot;&gt;Monday&lt;/h2&gt;
 
 &lt;p&gt;I’m back. That’s it.&lt;/p&gt;
 
@@ -8,7 +95,7 @@
 
 &lt;p&gt;A game engine is something that you use to make the actual game with, our game engine is not based on Pixels but &lt;a href=&quot;https://en.wikipedia.org/wiki/Voxel&quot;&gt;Voxels&lt;/a&gt;, a Voxel as I describe to other people right now is basically a 3D Pixel with metadata, and because of that you can do a lot of cool stuff with physics because you can define the action of every particular voxel to some event and it looks pretty &lt;a href=&quot;https://www.youtube.com/watch?v=hSSDp5f6L7k&quot;&gt;cool&lt;/a&gt;. We planned on writing it in &lt;strong&gt;Vulkan&lt;/strong&gt; but hey, we both don’t know &lt;em&gt;shid&lt;/em&gt; about Graphics and it takes close to a 1000, yes you read it right &lt;strong&gt;1000&lt;/strong&gt; lines of code to draw a &lt;strong&gt;TRIANGLE&lt;/strong&gt; on the screen with. So we switched to OpenGl, we were going to make it Cross-Platform, use &lt;a href=&quot;https://vagrantup.com&quot;&gt;Vagrant&lt;/a&gt;, to keep the build Environments same and use CMake for the actual buildiing, but we ran into problems, (could’nt expose the graphics card in the Vagrant Box and CMake is complicated :) ), so right now the project is just set up for Visual Studio, but I plan on using PreMake to automate that process. The Goal right now is just to get through the &lt;a href=&quot;http://www.opengl-tutorial.org&quot;&gt;OpenGl-Tutorial&lt;/a&gt; to get a basic understanding of how to render stuff on the screen and then get going with making the engine.&lt;/p&gt;
 
-&lt;p&gt;The reason I’m doing this right now is because if not for this I would still be on GitHub trying to find an organization to contribute to, make a list out of them, take days to select one, don’t like the Org and repeat the process over and over and not be productive. This will teach me a lot of stuff, a lot of disciplines of computer science and i’ll finally understand how people go from &lt;strong&gt;c=a+b&lt;/strong&gt; in C++ to &lt;strong&gt;Doom&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The reason I’m doing this right now is because if not for this I would still be on GitHub trying to find an organization to contribute to, make a list of them, take days to select one, don’t like the Org or find that I’m not ready for it yet, and repeat the process over and over and not be productive. This will teach me a lot of stuff, a lot of disciplines of computer science and i’ll finally understand how people go from &lt;strong&gt;c=a+b&lt;/strong&gt; in C++ to &lt;strong&gt;Doom&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Also I’ve had to pick up Competitive-Coding, I don’t like doing the questions, but it’s important to get a job, &lt;strong&gt;a necessary evil&lt;/strong&gt;, so i’ll also be posting any questions I did from now on.&lt;/p&gt;
 
@@ -56,6 +143,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;thursday&quot;&gt;Thursday&lt;/h3&gt;
+
 &lt;p&gt;A pretty chill day today nothing out of the ordinary, did a couple of problems in college and read up some OpenGl, sleeping early and waking up early is a great way to set yourself up for being productive and in general feeling good about yourself. Would highly recommend :)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;:&lt;/p&gt;
