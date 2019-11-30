@@ -42,7 +42,7 @@ Now as we have our weighted edges in our CSV file we can plot them just like any
 Community detection aims to identify highly connected groups of individuals or objects inside these networks, these groups are called communities. The motives behind community detection are diverse: it can help a brand understand the different groups of opinion toward its products, target certain groups of people or identify influencers. In our graphs communities depict the group of people that have interacted the most on screen.
 <br>
 `community` module uses Louvain method for community detection.
-<div style="text-align:center;height:800px;width:1400px;"><img src="https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Departed_communities.png" /></div>
+<div style="text-align:center;height:600px;width:1000px;"><img src="https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Departed_communities.png" /></div>
 <figcaption class="caption">Communities plotted. Observe how well it has separated the two different timelines in the movie. </figcaption>
 
 ---
