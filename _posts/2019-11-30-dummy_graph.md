@@ -1,12 +1,13 @@
 ---
-title: "idk"
+title: "Network Analysis and Pop Culture"
 layout: post
 date: 2019-11-30 12:16
 tag:
-- 100-days-of-code
+- network_analysis
+- coding
 star: true
 category: blog
-author: awalvie 
-description: "idk"
+author: utsav 
+description: "Graph Theory and Movies"
 ---
 
