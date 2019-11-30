@@ -26,9 +26,10 @@ The data above was processed to convert the raw data to a csv file containing co
 
 {% highlight raw %}
 Source, Target, Weight
-ANTHONY,MICHAEL,2
+ANTHONY, MICHAEL, 2
 {% endhighlight %}
 
 The above format signifies that there are 2 scenes where Anthony and Michael have both appeared together in the movie Godfather (as annotated in the dataset we are using).
+
 ---
 
