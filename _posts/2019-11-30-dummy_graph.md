@@ -31,8 +31,10 @@ ANTHONY, MICHAEL, 2
 
 ## Plotting the graph
 Now as we have our weighted edges in our CSV file we can plot them just like any other weighted graph. For visualisation, I have used [gephi](https://gephi.org/) previously, but I wanted to use only Python for this project so decided to use [networkx](https://networkx.github.io/), It's very well documented and so easy to use given your data is in correct format. You can find code for the project [here](https://github.com/us241098/Graphs-and-Pop-Culture) 
+
 <br>
 <br>
+
 ![Markdowm Image][https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Departed.png]
 <figcaption class="caption">After plotting I got a visualisation like this for Godfather 2</figcaption>
 
