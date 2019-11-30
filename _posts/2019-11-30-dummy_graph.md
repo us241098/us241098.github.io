@@ -47,5 +47,24 @@ Community detection aims to identify highly connected groups of individuals or o
 
 ---
 
+## Pulp fiction
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Pulp_Fiction.png" /></div>
+<figcaption class="caption">Pulp fiction charcaters co-appearance</figcaption>
+<br>
+<br>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Pulp_Fi_communities.png" /></div>
+<figcaption class="caption">Communities in Pulp Fiction</figcaption>
+
+---
+
+## The Departed
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Departed_2.png" /></div>
+<figcaption class="caption">The Departed charcaters co-appearance</figcaption>
+<br>
+<br>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Departed_communities_2.png" /></div>
+<figcaption class="caption">Communities in The Departed</figcaption>
+
+---
 
 
