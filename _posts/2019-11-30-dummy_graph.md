@@ -12,8 +12,7 @@ description: "Graph Theory and Movies"
 ---
 
 ## First Post
-
-With the End Semester exams approaching I decided that this is the perfect time to start my blog. As I was studying Graphs for my exam preparation, I thought to implement something cool using graph. After searching for a while I found [this](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3) . This repository contains network graphs and network metadata from Moviegalaxies, a website providing network graph data from about 773 films (1915–2012) .
+With the End Semester exams approaching I decided that this is the perfect time to start my blog. As I was studying Graphs for my exam preparation, I thought to implement something cool using graph. I asked a good friend of mine how I'm supposed to go about making it and he pointed me in the direction of jekyll, looked at the various templates availabe for jekyll on [GitHub](https://github.com/topics/jekyll-theme) and [Jekyll Site](http://jekyllthemes.org/) and because I am very very picky person (thanks dad), I endind up spending way too much time trying to find the perfect minimal theme.
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
 {% endhighlight %}
