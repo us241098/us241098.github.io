@@ -20,3 +20,15 @@ This note **demonstrates** some of what [Markdown][some/link] is *capable of doi
 
 ---
 
+## Data Processing 
+
+The data above was processed to convert the raw data to a csv file containing co-appearance of two characters in a scene represented as edges of graph.
+
+{% highlight raw %}
+Source, Target, Weight
+ANTHONY,MICHAEL,2
+{% endhighlight %}
+
+The above format signifies that there are 2 scenes where Anthony and Michael have both appeared together in the movie Godfather (as annotated in the dataset we are using).
+---
+
