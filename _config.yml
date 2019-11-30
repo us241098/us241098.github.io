@@ -39,7 +39,7 @@ twitter: utsav_US7
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: utsav-shukla-841b24142/
 # youtube: myyoutube
 spotify: 6c0nf5wj8ib5k60edly8utiv4?si=yFVLsVRdRJy_7z0apLtsQA
 github: us241098
@@ -68,7 +68,7 @@ authors:
 width: large
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
+paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
