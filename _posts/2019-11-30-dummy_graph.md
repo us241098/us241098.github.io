@@ -35,7 +35,7 @@ Now as we have our weighted edges in our CSV file we can plot them just like any
 <br>
 <br>
 
-![Markdowm Image][https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Departed.png]
+![Markdowm Image][/image/https://raw.githubusercontent.com/us241098/Graphs-and-Pop-Culture/master/img/Departed.png]
 <figcaption class="caption">After plotting I got a visualisation like this for Godfather 2</figcaption>
 
 
