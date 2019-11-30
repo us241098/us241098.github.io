@@ -15,8 +15,6 @@ description: Markdown summary with different options
 
 ## Basic formatting
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
-
 And that's how to do it.
 
 {% highlight html %}
