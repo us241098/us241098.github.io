@@ -12,7 +12,7 @@ description: "Graph Theory and Movies"
 ---
 
 ## First Post
-- Decided to take on the 100-days-of-code challenge, so I thought why not take this chance to set up a blog. I asked a good friend of mine how I'm supposed to go about making it and he pointed me in the direction of jekyll, looked at the various templates availabe for jekyll on [GitHub](https://github.com/topics/jekyll-theme) and [Jekyll Site](http://jekyllthemes.org/) and because I am very very picky person (thanks dad), I endind up spending way too much time trying to find the perfect minimal theme.
+Decided to take on the 100-days-of-code challenge, so I thought why not take this chance to set up a blog. I asked a good friend of mine how I'm supposed to go about making it and he pointed me in the direction of jekyll, looked at the various templates availabe for jekyll on [GitHub](https://github.com/topics/jekyll-theme) and [Jekyll Site](http://jekyllthemes.org/) and because I am very very picky person (thanks dad), I endind up spending way too much time trying to find the perfect minimal theme.
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
 {% endhighlight %}
