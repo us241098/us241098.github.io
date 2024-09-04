@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ExampleSite</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Nov 2019 08:43:29 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graphing the Movies</title>
+      <link>//localhost:1313/posts/graphing_movies/</link>
+      <pubDate>Fri, 22 Nov 2019 08:43:29 +0530</pubDate>
+      <guid>//localhost:1313/posts/graphing_movies/</guid>
+      <description>&lt;h2 id=&#34;first-post&#34;&gt;First Post&lt;/h2&gt;
+&lt;p&gt;With the end semester exams coming up, I figured it’s the perfect time to start my blog (yeah, great timing, right?). As I was studying Graphs for exam prep, I wanted to implement something cool using them. After searching for a while, I stumbled upon &lt;a href=&#34;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3&#34;&gt;this dataset&lt;/a&gt;. It’s from Moviegalaxies, a site that provides network graph data from around 773 films. Pretty neat, huh?&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-processing&#34;&gt;Data Processing&lt;/h2&gt;
+&lt;p&gt;So, I took the raw data and processed it into a CSV file, showing how two characters appear together in a scene, which is represented as edges of a graph. For example, if you look at the Godfather, there are two scenes where Anthony and Michael both appear together. Here&amp;rsquo;s how it looks in the CSV format:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
