@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
+    <title>Posts on utsav shukla</title>
     <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <description>Recent content in Posts on utsav shukla</description>
     <image>
-      <title>ExampleSite</title>
+      <title>utsav shukla</title>
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.134.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Nov 2019 08:43:29 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 03:38:32 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GREENER</title>
+      <link>//localhost:1313/posts/greener/</link>
+      <pubDate>Thu, 05 Sep 2024 03:38:32 +0530</pubDate>
+      <guid>//localhost:1313/posts/greener/</guid>
+      <description>&lt;h1 id=&#34;greener-graph-neural-networks-for-news-media-profiling&#34;&gt;greener: graph neural networks for news media profiling&lt;/h1&gt;
+&lt;p&gt;in the summer of 2020 i got an opportunity to work on GREENER with dr. preslav nakov and tanbih team. this project aimed at detecting bias and factuality of news media but beyond mere textual signals. in this blog post, we&amp;rsquo;ll dive into the technical details behind greener, including its methods and concepts.&lt;/p&gt;
+&lt;h2 id=&#34;problem-definition&#34;&gt;problem definition&lt;/h2&gt;
+&lt;p&gt;greener&amp;rsquo;s goal is to profile news media outlets based on two characteristics:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Graphing the Movies</title>
       <link>//localhost:1313/posts/graphing_movies/</link>
