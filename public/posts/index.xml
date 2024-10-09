@@ -11,14 +11,27 @@
     </image>
     <generator>Hugo -- 0.134.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Sep 2024 04:21:35 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 05:05:54 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ns</title>
+      <link>//localhost:1313/posts/ns/</link>
+      <pubDate>Thu, 10 Oct 2024 05:05:54 +0530</pubDate>
+      <guid>//localhost:1313/posts/ns/</guid>
+      <description>&lt;h1 id=&#34;numerical-instability-of-softmax&#34;&gt;Numerical Instability of Softmax&lt;/h1&gt;
+&lt;p&gt;The Softmax function is widely used in machine learning, especially for converting raw scores (logits) into probabilities in classification problems. It is defined as:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Softmax(z_i) = exp(z_i) / sum(exp(z_j) for j in range(n))
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;where &lt;code&gt;z_i&lt;/code&gt; represents the logits for class &lt;code&gt;i&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem-of-numerical-instability&#34;&gt;The Problem of Numerical Instability&lt;/h2&gt;
+&lt;p&gt;The Softmax function can suffer from &lt;strong&gt;numerical instability&lt;/strong&gt;, particularly when the input logits &lt;code&gt;z&lt;/code&gt; contain large or small values. This is because computing &lt;code&gt;exp(z_i)&lt;/code&gt; can result in very large or very small numbers, leading to overflow or underflow errors when summed across all classes.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>blockbuster</title>
       <link>//localhost:1313/posts/blockbuster/</link>
-      <pubDate>Tue, 10 Sep 2024 04:21:35 +0530</pubDate>
+      <pubDate>Mon, 30 Sep 2024 04:21:35 +0530</pubDate>
       <guid>//localhost:1313/posts/blockbuster/</guid>
-      <description>&lt;h1 id=&#34;hello&#34;&gt;hello&lt;/h1&gt;</description>
+      <description>&lt;p&gt;recently, while watching the music video for faris shafi&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=-urTPhh7gNk&#34;&gt;blockbuster&lt;/a&gt;, i noticed something interesting. the song was in punjabi, but the subtitles (and even the hoardings and other text) on the screen were in the arabic script.&lt;/p&gt;
+&lt;p&gt;it struck me then that punjabi is quite a unique language, as it&amp;rsquo;s written in two different scripts: shahmukhi (used mainly in pakistan) and gurmukhi (used mainly in india). i can understand some gurmukhi punjabi, but shahmukhi remains a mystery to me. yet, since the two scripts represent the same sounds, it should be possible to transliterate one into the other. might be worth exploring.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GREENER</title>

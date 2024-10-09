@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.134.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 04:21:35 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 05:05:54 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>softmax numerical instability</title>
+      <link>//localhost:1313/posts/ns/</link>
+      <pubDate>Thu, 10 Oct 2024 05:05:54 +0530</pubDate>
+      <guid>//localhost:1313/posts/ns/</guid>
+      <description>&lt;h1 id=&#34;numerical-instability-of-softmax&#34;&gt;numerical instability of softmax&lt;/h1&gt;
+&lt;p&gt;the softmax function is widely used in machine learning, especially for converting raw scores (logits) into probabilities in classification problems. it is defined as:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Softmax(z_i) = exp(z_i) / sum(exp(z_j) for j in range(n))
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;where &lt;code&gt;z_i&lt;/code&gt; represents the logits for class &lt;code&gt;i&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem-of-numerical-instability&#34;&gt;the problem of numerical instability&lt;/h2&gt;
+&lt;p&gt;the softmax function can suffer from &lt;strong&gt;numerical instability&lt;/strong&gt;, particularly when the input logits &lt;code&gt;z&lt;/code&gt; contain large or small values. this is because computing &lt;code&gt;exp(z_i)&lt;/code&gt; can result in very large or very small numbers, leading to overflow or underflow errors when summed across all classes.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>blockbuster</title>
       <link>//localhost:1313/posts/blockbuster/</link>
