@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.134.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Sep 2024 03:38:32 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 04:21:35 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blockbuster</title>
+      <link>//localhost:1313/posts/blockbuster/</link>
+      <pubDate>Mon, 30 Sep 2024 04:21:35 +0530</pubDate>
+      <guid>//localhost:1313/posts/blockbuster/</guid>
+      <description>&lt;p&gt;recently, while watching the music video for faris shafi&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=-urTPhh7gNk&#34;&gt;blockbuster&lt;/a&gt;, i noticed something interesting. the song was in punjabi, but the subtitles (and even the hoardings and other text) on the screen were in the arabic script.&lt;/p&gt;
+&lt;p&gt;it struck me then that punjabi is quite a unique language, as it&amp;rsquo;s written in two different scripts: shahmukhi (used mainly in pakistan) and gurmukhi (used mainly in india). i can understand some gurmukhi punjabi, but shahmukhi remains a mystery to me. yet, since the two scripts represent the same sounds, it should be possible to transliterate one into the other. might be worth exploring.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GREENER</title>
       <link>//localhost:1313/posts/greener/</link>

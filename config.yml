@@ -77,11 +77,10 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://x.com/utsav_us7"
+
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/us241098"
 
   analytics:
     google:
