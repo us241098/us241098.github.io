@@ -113,6 +113,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: pancham
+      name: pancham
+      url: /pancham/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
