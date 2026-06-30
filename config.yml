@@ -1,8 +1,9 @@
 baseURL: "us241098.github.io"
 title: utsav shukla
-pagination: 
+pagination:
   pagerSize: 5
 theme: PaperMod
+googleAnalytics: "G-RSD8EX9X4L"
 
 enableRobotsTXT: true
 buildDrafts: false
